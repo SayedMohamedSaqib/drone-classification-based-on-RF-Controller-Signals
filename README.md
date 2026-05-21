@@ -16,6 +16,9 @@ The initial implementation establishes a complete end-to-end RF fingerprinting p
 * Performance evaluation
 
 ---
+<p align="center">
+  <img src="cnn_cm.png" width="700"/>
+</p>
 
 # Dataset
 
