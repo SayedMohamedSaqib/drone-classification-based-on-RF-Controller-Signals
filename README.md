@@ -17,7 +17,7 @@ The initial implementation establishes a complete end-to-end RF fingerprinting p
 
 ---
 <p align="center">
-  <img src="cnn_cm.png" width="700"/>
+  <img src="cnn_cm.jpeg" width="1000"/>
 </p>
 
 # Dataset
